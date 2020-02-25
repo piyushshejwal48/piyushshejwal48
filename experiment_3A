@@ -1,0 +1,5 @@
+n=input("Enter n for list")
+list1=["Mango","Raspberry","Surdarshanweed","ShreyasBeer","Jack"]
+for i in range(len(list1)):
+	if len(str(list1[i])) > n:
+		print(list1[i])
