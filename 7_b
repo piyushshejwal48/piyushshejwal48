@@ -23,7 +23,7 @@ OUTPUT ::
 
 C:\Users\Admin>cd Desktop\piyush
 
-C:\Users\Admin\Desktop\udit>python 7_b.py
+C:\Users\Admin\Desktop\piyush>python 7_b.py
 Enter Name of person : piyush shejwal
 Enter DateOfBirth of the person : 04-08-2000
 Enter Age of person : 19
